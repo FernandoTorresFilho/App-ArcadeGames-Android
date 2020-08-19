@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArcadeGames</string>
+    <string name="game_arcade_logo"> Game Arcade Logo</string>
+
+    <string-array name="options">
+        <item>Consoles</item>
+        <item>Jogos</item>
+        <item>Lojas</item>
+    </string-array>
+</resources>
